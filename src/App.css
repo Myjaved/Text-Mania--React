@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  color:darkred;
+  text-align: left;
+  background-color:white;
+
+}
+p{
+  font: bold;
+  color: darkred;
+  background-color:cornsilk;
+}
+
+
+
+
+
+
+
+
